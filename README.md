@@ -18,8 +18,7 @@ En resumen, la hibridación de Lev Manovich es un concepto que describe cómo la
 
 A continuación veremos dos casos de medios modernos para ejemplificar el concepto de hibridación.
 
-![Google Lens: real-time answers to questions about the world around you
-Visit](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_dog.max-1000x1000.png) 
+![Google Lens](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_dog.max-1000x1000.png) 
 
 
 ## Re-descubriendo la hibridacion: Caso 1 Google Lens
@@ -35,8 +34,7 @@ Manovich también argumenta que la tecnología digital ha cambiado la forma en q
 A pesar de estas ventajas, también también existen preocupaciones con respecto a la hibridación de Google Lens, entre ellas las más relevantes son el uso responsable y ético de la tecnología. Algunos temen que la herramienta pueda ser utilizada para vigilar y rastrear a las personas sin su consentimiento o para fines malintencionados. También hay preocupaciones sobre la privacidad y la seguridad de la información recopilada por Google Lens. Es por esto que las medidas para proteger la privacidad y seguridad de los usuarios cobra tanta importancia para garantizar el uso responsable y ético de esta tecnología.
 
 
-![OpenAI's new ChatGPT chatbot could be a game-changer
-Visit](https://techmonitor.ai/wp-content/uploads/sites/4/2022/12/shutterstock_2210705149.jpg) 
+![OpenAI Chat GPT](https://techmonitor.ai/wp-content/uploads/sites/4/2022/12/shutterstock_2210705149.jpg) 
 
 
 ## Re-descubriendo la hibridacion: Caso 2 Chat GPT
